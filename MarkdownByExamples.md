@@ -2,12 +2,14 @@
 ## 标题二
 ### 标题三
 ###### 标题六
+
 > 引用
 
 有序列表：
 1. 打开冰箱
 2. 把大象塞进去
 3. 关上冰箱
+
 
 无序列表：
 - 早饭
@@ -24,11 +26,29 @@ int main(){
     return 0;
 }
 ```
+```python
+```
 
 数学公式：
 $$
 \frac{\partial f}{\partial x} = 2\sqrt{a}x
 $$ 
+
+$y=x^2$
+
+$e^{i\pi} + 1 = 0$
+
+$e^x=\sum_{i=0}^\infty \frac{1}{i!}x^i$
+
+$\frac{n!}{k!(n-k)!} = {n \choose k}$
+
+$A_{m,n} =
+ \begin{pmatrix}
+  a_{1,1} & a_{1,2} & \cdots & a_{1,n} \\
+  a_{2,1} & a_{2,2} & \cdots & a_{2,n} \\
+  \vdots  & \vdots  & \ddots & \vdots  \\
+  a_{m,1} & a_{m,2} & \cdots & a_{m,n}
+ \end{pmatrix}$
 
 表格：
 |姓名|年龄|成绩|
